@@ -6,11 +6,9 @@
 
 Comparamos os dados do IBGE de 2010 e a lista de vereadores no cargo em 2016 e 2017, e percebemos uma enorme disparidade entre representações relacionadas à cor da pele e ao sexo. No caso da porcentagem de pessoas brancas e pessoas do sexo masculino, apesar de representarem apenas cerca de 50% da população, assumem mais de 80% dos cargos. O quadro não melhorou nas últimas eleições.
 
-###### total de voto
+
 ![alt text](plots_raw/mulheres.png)
 
-
-###### taxa de variação
 ![alt text](plots_raw/nao_brancos.png)
 
 
