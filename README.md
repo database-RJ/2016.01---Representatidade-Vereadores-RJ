@@ -15,9 +15,12 @@ Comparamos os dados do IBGE de 2010 e a lista de vereadores no cargo em 2016 e 2
 ##Metodologia
 
 Os dados de gênero e raça são autodeclarados pelos veradores e pela população da cidade. Calculamos as porcentagens sobre o total da população e comparamos os índices.
-Essa análise foi implementada em R. O código se encontra disponpivel como um notebook de ipython aqui nesse repositório.
 
-os dados estão disponível nesse [links](https://drive.google.com/drive/folders/0B5p2DfLvQ-6RZ3Z0azlLeTljLWc?usp=sharing).
+Essa análise foi implementada em R. 
+
+O código se encontra disponível como um notebook de ipython aqui nesse repositório.
+
+Os dados estão disponível nesse [links](https://drive.google.com/drive/folders/0B5p2DfLvQ-6RZ3Z0azlLeTljLWc?usp=sharing).
 
 
 ##Fontes:
