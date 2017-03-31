@@ -1,8 +1,8 @@
 # Representatidade da Câmara de Vereadores do Rio
 
 
-##Analise
-####O que impede a cidade de ter uma Câmara Municipal alinhada em representatividade com os diversos grupos que formam a sociedade?
+## Analise
+#### O que impede a cidade de ter uma Câmara Municipal alinhada em representatividade com os diversos grupos que formam a sociedade?
 
 Comparamos os dados do IBGE de 2010 e a lista de vereadores no cargo em 2016 e 2017, e percebemos uma enorme disparidade entre representações relacionadas à cor da pele e ao sexo. No caso da porcentagem de pessoas brancas e pessoas do sexo masculino, apesar de representarem apenas cerca de 50% da população, assumem mais de 80% dos cargos. O quadro não melhorou nas últimas eleições.
 
