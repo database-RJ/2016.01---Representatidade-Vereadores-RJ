@@ -12,7 +12,7 @@ Comparamos os dados do IBGE de 2010 e a lista de vereadores no cargo em 2016 e 2
 ![alt text](plots_raw/nao_brancos.png)
 
 
-##Metodologia
+## Metodologia
 
 Os dados de gênero e raça são autodeclarados pelos veradores e pela população da cidade. Calculamos as porcentagens sobre o total da população e comparamos os índices.
 
@@ -23,12 +23,12 @@ O código se encontra disponível como um notebook de ipython aqui nesse reposit
 Os dados estão disponível nesse [links](https://drive.google.com/drive/folders/0B5p2DfLvQ-6RZ3Z0azlLeTljLWc?usp=sharing).
 
 
-##Fontes:
+## Fontes:
 
-###cidade:
+### cidade:
 
 [IBGE / cidades / Rio de Janeiro](http://cidades.ibge.gov.br/xtras/perfil.php?codmun=330455)
 
 
-###câmara:
+### câmara:
 [TSE / Divulgação de Candidaturas e Contas Eleitorais](http://divulgacandcontas.tse.jus.br)
